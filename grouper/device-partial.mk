@@ -25,3 +25,4 @@ PRODUCT_PACKAGES := \
     sensors.grouper \
     tf_daemon \
     touch_fw.ekt \
+    libsensors.lightsensor \
