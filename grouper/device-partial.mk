@@ -19,10 +19,8 @@ PRODUCT_PACKAGES := \
     camera.tegra3 \
     gpsconfig \
     gps.tegra3 \
-    keystore.grouper \
     libpn544_fw \
     sensors-config \
     sensors.grouper \
     tf_daemon \
-    touch_fw.ekt \
     libsensors.lightsensor \
