@@ -24,3 +24,4 @@ PRODUCT_PACKAGES := \
     sensors.grouper \
     tf_daemon \
     libsensors.lightsensor \
+    keystore.grouper \
